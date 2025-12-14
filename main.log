@@ -1,16 +1,16 @@
-This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.uptex) (TeX Live 2025) (preloaded format=uplatex 2025.9.11)  15 DEC 2025 02:03
+This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.uptex) (TeX Live 2025) (preloaded format=uplatex 2025.9.11)  15 DEC 2025 02:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.tex
-(/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.tex
+**/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.tex
+(/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.tex
 pLaTeX2e <2023-02-14u04>+1, based on
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
-(/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/HUS_abstract.cls
+(/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/HUS_abstract.cls
 Document Class: HUS_abstract 2025/12/15 HUS Bachelor Thesis Abstract v0.3
-(/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/jsmepaper.cls
+(/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/jsmepaper.cls
 Document Class: jsmepaper 1999/11/05 v1.54 Standard JSME Paper Class for pLateX2e
 (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
@@ -49,7 +49,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
-) (/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/jsmefont.sty)
+) (/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/jsmefont.sty)
 \c@@paper=\count274
  (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fleqn.clo
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
@@ -66,9 +66,9 @@ LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 27.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 27.
-) (/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/jsme10.sty
+) (/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/jsme10.sty
 File: jsme10.sty 1998/04/07 v1.1m Standard pLaTeX file (size option)
-) (/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/a4jsme.sty)
+) (/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/a4jsme.sty)
 \c@part=\count275
 \c@section=\count276
 \c@subsection=\count277
@@ -79,7 +79,7 @@ File: jsme10.sty 1998/04/07 v1.1m Standard pLaTeX file (size option)
 \heisei=\count281
 \c@figure=\count282
 \c@table=\count283
- (/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/jsadd.sty
+ (/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/jsadd.sty
 \@abind=\count284
 \@tempcntc=\count285
 \@tmpwidth=\skip50
@@ -188,7 +188,7 @@ File: l3backend-dvips.def 2025-06-09 L3 backend support: dvips
 \g__pdfannot_backend_int=\count298
 \g__pdfannot_backend_link_int=\count299
 \g__pdfannot_backend_link_sf_int=\count300
-) (/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.aux)
+) (/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -225,38 +225,10 @@ LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY2/gt/m/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 23.
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 23.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 23.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omlztmcm.fd
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 23.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omsztmcm.fd
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 23.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omxztmcm.fd
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 23.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 23.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <10> not available
 (Font)              Font shape `JT2/mc/bx/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
@@ -269,6 +241,22 @@ LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY2/gt/m/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 23.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 27.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 27.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 27.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 27.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
@@ -281,56 +269,62 @@ Underfull \hbox (badness 10000) detected at line 27
  []
 
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 7.1204pt on input line 30.
+(Font)              scaled to size 7.1204pt on input line 31.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 7.1204pt on input line 30.
+(Font)              scaled to size 7.1204pt on input line 31.
 
-Underfull \hbox (badness 10000) detected at line 33
-\JY2/gt/m/n/10 実験方法
+Underfull \hbox (badness 10000) detected at line 34
+\JY2/gt/m/n/10 手法
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 35.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Underfull \hbox (badness 10000) detected at line 47
-\JY2/gt/m/n/10 結言
- []
 
-LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 52.
-LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 52.
-LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <10.95> not available
-(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 52.
-LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 52.
-LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 52.
-LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <10.95> not available
-(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 52.
-LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 52.
-LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 52.
-
-Underfull \hbox (badness 10000) detected at line 52
-\JY2/gt/m/n/10 今後の課題
+Underfull \hbox (badness 6428) detected at line 40
+\JY2/gt/m/n/10 結果および考察
  []
 
 File: ./figure/1.eps Graphic file (type eps)
 <./figure/1.eps>
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 9.14108pt on input line 59.
+(Font)              scaled to size 9.14108pt on input line 48.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 9.14108pt on input line 59.
+(Font)              scaled to size 9.14108pt on input line 48.
 
-Underfull \hbox (badness 10000) detected at line 65
+Underfull \hbox (badness 10000) detected at line 53
+\JY2/gt/m/n/10 結言
+ []
+
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 59.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 59.
+LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <10.95> not available
+(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 59.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 59.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 59.
+LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <10.95> not available
+(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 59.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 59.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 59.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
+
+Underfull \hbox (badness 10000) detected at line 59
+\JY2/gt/m/n/10 今後の課題
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 64
 \JY2/gt/m/n/10 謝辞
  []
 
 
-Underfull \hbox (badness 10000) detected at line 70
+Underfull \hbox (badness 10000) detected at line 69
 \JY2/gt/m/n/10 文 献
  []
 
@@ -340,7 +334,7 @@ Underfull \hbox (badness 10000) detected at line 70
 
 ]
 
-[2] (/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.aux)
+[2] (/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.aux)
  ***********
 pLaTeX2e <2023-02-14u04>+1, based on
 LaTeX2e <2025-06-01> patch level 1
@@ -348,12 +342,12 @@ L3 programming layer <2025-08-13>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2555 strings out of 468444
- 40063 string characters out of 5447234
- 439407 words of memory out of 5000000
- 31183 multiletter control sequences out of 15000+600000
- 670990 words of font info for 174 fonts, out of 8000000 for 9000
+ 2493 strings out of 468444
+ 37291 string characters out of 5447234
+ 439388 words of memory out of 5000000
+ 31125 multiletter control sequences out of 15000+600000
+ 658726 words of font info for 142 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 73i,8n,79p,3288b,366s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,8n,79p,3204b,366s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on /Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.dvi (2 pages, 2660 bytes).
+Output written on /Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.dvi (2 pages, 3464 bytes).

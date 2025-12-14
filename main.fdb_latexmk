@@ -1,22 +1,23 @@
 # Fdb version 4
-["dvipdf"] 1765731815.70427 "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.dvi" "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.pdf" "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main" 1765731816.46024 0
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.dvi" 1765731815.6708 2660 314ff4d2568bed5b3864a48d79bbccbb "latex"
+["dvipdf"] 1765732686.70427 "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.dvi" "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.pdf" "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main" 1765732687.39195 0
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.dvi" 1765732686.6766 3464 57302be39528d65f81a5ec3cc3c64967 "latex"
+  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.dvi" 0 -1 0 ""
   (generated)
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.pdf"
   "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.pdf"
   (rewritten before read)
-["latex"] 1765731815.32101 "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.tex" "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.dvi" "main" 1765731816.45954 0
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/./figure/1.eps" 1389754136 14013074 c5974719f436990d52b55a3714a7ae30 ""
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/HUS_abstract.cls" 1765730436.93814 5538 923b2e7cdd42d47bebae04811de37496 ""
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/a4jsme.sty" 1765724027.75812 1260 da4315a9f6cb2299a1513df34de5541b ""
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/jsadd.sty" 1765724009.62264 18645 c6528bef497b4ad91b2d70bf31802093 ""
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/jsme10.sty" 1389754136 2271 07d396c01b00880c7bfe0946e2acd1f6 ""
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/jsmefont.sty" 1389754136 3971 4e21d41f641fdc787ed2d33f38c6b209 ""
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/jsmepaper.cls" 1765723988.89769 15453 b77d0c3fb185e291fbdedc8ff1b184c5 ""
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.aux" 1765731815.66775 2126 4799014ea2f68a4ed84922fe4901bcc8 "latex"
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.tex" 1765731814.04252 3259 42fa0023a6d750a6e67d21c276220bf0 ""
+["latex"] 1765732686.35576 "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.tex" "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.dvi" "main" 1765732687.39131 0
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/./figure/1.eps" 1765732304.0193 14013074 c5974719f436990d52b55a3714a7ae30 ""
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/HUS_abstract.cls" 1765732303.99652 5538 923b2e7cdd42d47bebae04811de37496 ""
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/a4jsme.sty" 1765732303.99664 1260 da4315a9f6cb2299a1513df34de5541b ""
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/jsadd.sty" 1765732304.02078 18645 c6528bef497b4ad91b2d70bf31802093 ""
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/jsme10.sty" 1765732304.02089 2271 07d396c01b00880c7bfe0946e2acd1f6 ""
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/jsmefont.sty" 1765732304.02096 3971 4e21d41f641fdc787ed2d33f38c6b209 ""
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/jsmepaper.cls" 1765732304.0211 15453 b77d0c3fb185e291fbdedc8ff1b184c5 ""
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.aux" 1765732686.67488 1638 d682614c7e5e82123482d97b6629a5be "latex"
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.tex" 1765732683.98518 3933 d81f1ec06a79ab2b2aa1b3b39a85c9ff ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb8c.tfm" 1136768653 1340 d2f6275bc4fa3f07e3bc50aae2c71eab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm" 1136768653 2124 2601a75482e9426d33db523edf23570a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1136768653 2288 f478fc8fed18759effb59f3dad7f3084 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm" 1136768653 2232 db256afffc8202da192b4641df14d602 ""
@@ -54,14 +55,13 @@
   "/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ptm.fd" 1137110629 961 15056f4a61917ceed3a44e4ac11fcc52 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd" 1137110629 329 aee7226812ba4138ac67a018466b488d ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/times.sty" 1586716065 856 8e0e5c8cca7b18e0400f97f5a2b90a99 ""
-  "/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd" 1137110629 619 96f56dc5d1ef1fe1121f1cfeec70ee0c ""
   "/usr/local/texlive/2025/texmf-dist/tex/platex/base/jsize10.clo" 1601501154 8603 0e3b68ad462d501024c2959e1acaa910 ""
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1749313668 42213 4e2ca030e8e2640502016e9e45868dcb ""
   "/usr/local/texlive/2025/texmf-var/web2c/euptex/uplatex.fmt" 1757578441 3609901 80396b8ccebda92a616373b990825f2b ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "figure/1.eps" 1389754136 14013074 c5974719f436990d52b55a3714a7ae30 ""
+  "figure/1.eps" 1765732304.0193 14013074 c5974719f436990d52b55a3714a7ae30 ""
   (generated)
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.aux"
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.dvi"
-  "/Users/naniwa_pro/Dropbox/指導用資料【】【】【】【」「」「」「」/各種テンプレ/卒論テンプレ？/naniwa_lab_abstract_template/main.log"
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.aux"
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.dvi"
+  "/Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.log"
   (rewritten before read)
