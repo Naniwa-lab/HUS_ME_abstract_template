@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.uptex) (TeX Live 2025) (preloaded format=uplatex 2025.9.11)  15 DEC 2025 02:18
+This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.uptex) (TeX Live 2025) (preloaded format=uplatex 2025.9.11)  20 JAN 2026 23:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -229,6 +229,8 @@ LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 23.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 23.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 23.
 LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <10> not available
 (Font)              Font shape `JT2/mc/bx/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
@@ -342,12 +344,12 @@ L3 programming layer <2025-08-13>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2493 strings out of 468444
- 37291 string characters out of 5447234
- 439388 words of memory out of 5000000
- 31125 multiletter control sequences out of 15000+600000
- 658726 words of font info for 142 fonts, out of 8000000 for 9000
+ 2495 strings out of 468444
+ 37313 string characters out of 5447234
+ 439398 words of memory out of 5000000
+ 31126 multiletter control sequences out of 15000+600000
+ 659259 words of font info for 143 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 73i,8n,79p,3204b,366s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,8n,79p,3204b,367s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on /Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.dvi (2 pages, 3464 bytes).
+Output written on /Users/naniwa_pro/Dropbox/各種テンプレ/HUS_ME_abstract_template/main.dvi (2 pages, 3592 bytes).

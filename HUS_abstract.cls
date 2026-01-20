@@ -78,8 +78,8 @@
 
 \newcommand{\authoren}[1]{\def\HUS@authoren{#1}}
 
-% jsmepaper 側で定義されている可能性があるため providecommand
-\providecommand{\keywords}[1]{\def\HUS@keywords{#1}}
+\renewcommand{\keywords}[1]{\def\HUS@keywords{#1}}
+
 
 % 初期値（未定義防止）
 \def\HUS@titleja{}
@@ -125,7 +125,7 @@
 
   % Key Words
   {\normalsize
-    \textbf{Key Words :} \HUS@keywords
+    \textit{\textbf{Key Words :}}\HUS@keywords
   }
 
   \end{center}
