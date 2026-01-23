@@ -1,4 +1,16 @@
 \documentclass{HUS_abstract}
+% 発表番号（左上に大きく表示）
+\newcommand{\presno}{A12} % ←ここを各自の番号に変更
+
+% 左上にゴシック体で大きく表示（ページ1のみ）
+\usepackage{eso-pic}
+\usepackage{xcolor}
+\usepackage{ifthen}
+\AddToShipoutPictureFG*{%
+  \ifthenelse{\value{page}=1}{%
+    \AtPageUpperLeft{\raisebox{-20mm}[0pt][0pt]{\hspace*{13mm}{\sffamily\bfseries\fontsize{16}{16}\selectfont\presno}}}%
+  }{}%
+}
 
 %====================================================================
 % ここから上は編集しない
